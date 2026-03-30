@@ -7,8 +7,6 @@ This project analyzes patterns of political polarization among local elected off
 
 The project is structured as a reproducible four-script R workflow and is designed to demonstrate the kind of quantitative pipeline applicable to real legislative polarization research — including administrative data collection, multi-variable regression modeling, and visualization of political behavior data.
 
-This work is directly informed by my experience as a research intern with the **Washington Collaborative Elected Leaders Institute (WA-CELI)**, a program developed by the William D. Ruckelshaus Center and the UW Evans School of Public Policy and Governance to study and reduce polarization among elected officials. The `collaborative_identity` variable in this project is modeled on the survey instrument used in WA-CELI's pre/post program evaluation.
-
 ---
 
 ## Research Questions
