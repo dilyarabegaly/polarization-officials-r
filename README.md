@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26361718/README.md)
+[README.md](https://github.com/user-attachments/files/26361826/README.md)
 # Polarization Among Local Elected Officials — Quantitative Analysis
 
 ## Overview
@@ -67,6 +67,7 @@ Question 3 uses logistic regression, the appropriate estimator for a binary outc
 
 ### Script 04 — Visualization
 Five plots:
+
 1. Polarization index by party × jurisdiction type (grouped bar with CIs)
 2. Ideological distance distribution by party (density plot)
 3. Cross-party collaboration by competitiveness (violin + box, faceted by party)
@@ -146,7 +147,3 @@ This project is designed to mirror the data structure and analytical questions i
 - **Kirkland (2014)** — cross-partisan cosponsorship as a measure of collaboration
 - **Caughey & Warshaw (2018)** — mass and elite polarization at the state level
 - **Broockman & Skovron (2018)** — how electoral competition shapes legislative behavior
-
-The `collaborative_identity` measure is conceptually related to the "shared identity as public servant" theory of change in polarization reduction research.
-
----
