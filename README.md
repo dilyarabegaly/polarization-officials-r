@@ -87,7 +87,7 @@ Five plots:
 ## Limitations
 
 - **Simulated data:** No causal claims are warranted. Results illustrate analytical approach, not empirical findings.
-- **Cross-sectional design:** Longitudinal data with pre/post measurement (as in WA-CELI) or quasi-experimental variation in district competitiveness would be needed for causal identification.
+- **Cross-sectional design:** Longitudinal data with pre/post measurement or quasi-experimental variation in district competitiveness would be needed for causal identification.
 - **Small N per jurisdiction:** With 5 officials per jurisdiction, jurisdiction-level fixed effects would severely limit degrees of freedom. Multilevel modeling (lme4) would be the preferred specification with a larger real dataset.
 - **Self-report bias:** Survey-based polarization measures are subject to social desirability effects, particularly for collaborative identity items.
 
@@ -147,8 +147,6 @@ This project is designed to mirror the data structure and analytical questions i
 - **Caughey & Warshaw (2018)** — mass and elite polarization at the state level
 - **Broockman & Skovron (2018)** — how electoral competition shapes legislative behavior
 
-The `collaborative_identity` measure is modeled on survey instruments used in the **WA-CELI program evaluation** and is conceptually related to the "shared identity as public servant" theory of change in polarization reduction research.
+The `collaborative_identity` measure is conceptually related to the "shared identity as public servant" theory of change in polarization reduction research.
 
 ---
-
-*This project reflects applied research skills developed through work at Pierce County Human Services (administrative data analysis in R) and the Washington Collaborative Elected Leaders Institute (polarization measurement and program evaluation).*
